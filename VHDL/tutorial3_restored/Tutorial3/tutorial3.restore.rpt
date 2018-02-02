@@ -1,0 +1,169 @@
+Restore Archived Project report for tutorial3
+Thu Feb 01 15:29:16 2018
+Quartus Prime Version 17.0.2 Build 602 07/19/2017 SJ Standard Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Restore Archived Project Summary
+  3. Restore Archived Project Messages
+  4. Files Restored
+  5. Files Not Restored
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 2017  Intel Corporation. All rights reserved.
+Your use of Intel Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Intel Program License 
+Subscription Agreement, the Intel Quartus Prime License Agreement,
+the Intel MegaCore Function License Agreement, or other 
+applicable license agreement, including, without limitation, 
+that your use is for the sole purpose of programming logic 
+devices manufactured by Intel and sold by Intel or its 
+authorized distributors.  Please refer to the applicable 
+agreement for further details.
+
+
+
++-------------------------------------------------------------------------+
+; Restore Archived Project Summary                                        ;
++---------------------------------+---------------------------------------+
+; Restore Archived Project Status ; Successful - Thu Feb 01 15:29:16 2018 ;
+; Revision Name                   ; tutorial3                             ;
+; Top-level Entity Name           ; tutorial3                             ;
+; Family                          ; Cyclone V                             ;
++---------------------------------+---------------------------------------+
+
+
++-----------------------------------+
+; Restore Archived Project Messages ;
++-----------------------------------+
+Info: Successfully restored 'C:/Users/bofrim/Documents/DriveSystemTemp/DriveSystemTest/VHDL/tutorial3.qar' into the 'C:/Users/bofrim/Documents/DriveSystemTemp/DriveSystemTest/VHDL/tutorial3_restored/' directory
+Info: Generated report 'tutorial3.restore.rpt'
+Info (23030): Evaluation of Tcl script c:/intelfpga/17.0/quartus/common/tcl/apps/qpm/qar.tcl was successful
+Info: Quartus Prime Shell was successful. 0 errors, 96 warnings
+    Info: Peak virtual memory: 669 megabytes
+    Info: Processing ended: Thu Feb 01 15:29:16 2018
+    Info: Elapsed time: 00:00:09
+    Info: Total CPU time (on all processors): 00:00:09
+
+
++----------------+
+; Files Restored ;
++----------------+
+; File Name      ;
++----------------+
+
+
++-------------------------------------------------------------------------------------------------------------+
+; Files Not Restored                                                                                          ;
++-------------------------------------------------------------------------------------------------------------+
+; File Name                                                                                                   ;
++-------------------------------------------------------------------------------------------------------------+
+; qar_info.json                                                                                               ;
+; Pin_Assignments_Presets/pin_assignment_DE1_SoC.tcl                                                          ;
+; Tutorial3/soc_system.qsys                                                                                   ;
+; Tutorial3/soc_system.sopcinfo                                                                               ;
+; Tutorial3/soc_system/soc_system.cmp                                                                         ;
+; Tutorial3/soc_system/synthesis/soc_system.debuginfo                                                         ;
+; Tutorial3/soc_system/synthesis/soc_system.qip                                                               ;
+; Tutorial3/soc_system/synthesis/soc_system.regmap                                                            ;
+; Tutorial3/soc_system/synthesis/soc_system.vhd                                                               ;
+; Tutorial3/soc_system/synthesis/soc_system_hps_0_hps.svd                                                     ;
+; Tutorial3/soc_system/synthesis/soc_system_rst_controller.vhd                                                ;
+; Tutorial3/soc_system/synthesis/soc_system_rst_controller_001.vhd                                            ;
+; Tutorial3/soc_system/synthesis/submodules/altdq_dqs2_acv_connect_to_hard_phy_cyclonev.sv                    ;
+; Tutorial3/soc_system/synthesis/submodules/altera_avalon_sc_fifo.v                                           ;
+; Tutorial3/soc_system/synthesis/submodules/altera_avalon_st_pipeline_base.v                                  ;
+; Tutorial3/soc_system/synthesis/submodules/altera_avalon_st_pipeline_stage.sv                                ;
+; Tutorial3/soc_system/synthesis/submodules/altera_default_burst_converter.sv                                 ;
+; Tutorial3/soc_system/synthesis/submodules/altera_incr_burst_converter.sv                                    ;
+; Tutorial3/soc_system/synthesis/submodules/altera_mem_if_dll_cyclonev.sv                                     ;
+; Tutorial3/soc_system/synthesis/submodules/altera_mem_if_hard_memory_controller_top_cyclonev.sv              ;
+; Tutorial3/soc_system/synthesis/submodules/altera_mem_if_hhp_qseq_synth_top.v                                ;
+; Tutorial3/soc_system/synthesis/submodules/altera_mem_if_oct_cyclonev.sv                                     ;
+; Tutorial3/soc_system/synthesis/submodules/altera_merlin_address_alignment.sv                                ;
+; Tutorial3/soc_system/synthesis/submodules/altera_merlin_arbitrator.sv                                       ;
+; Tutorial3/soc_system/synthesis/submodules/altera_merlin_axi_master_ni.sv                                    ;
+; Tutorial3/soc_system/synthesis/submodules/altera_merlin_burst_adapter.sv                                    ;
+; Tutorial3/soc_system/synthesis/submodules/altera_merlin_burst_adapter_13_1.sv                               ;
+; Tutorial3/soc_system/synthesis/submodules/altera_merlin_burst_adapter_new.sv                                ;
+; Tutorial3/soc_system/synthesis/submodules/altera_merlin_burst_adapter_uncmpr.sv                             ;
+; Tutorial3/soc_system/synthesis/submodules/altera_merlin_burst_uncompressor.sv                               ;
+; Tutorial3/soc_system/synthesis/submodules/altera_merlin_reorder_memory.sv                                   ;
+; Tutorial3/soc_system/synthesis/submodules/altera_merlin_slave_agent.sv                                      ;
+; Tutorial3/soc_system/synthesis/submodules/altera_merlin_slave_translator.sv                                 ;
+; Tutorial3/soc_system/synthesis/submodules/altera_merlin_traffic_limiter.sv                                  ;
+; Tutorial3/soc_system/synthesis/submodules/altera_reset_controller.sdc                                       ;
+; Tutorial3/soc_system/synthesis/submodules/altera_reset_controller.v                                         ;
+; Tutorial3/soc_system/synthesis/submodules/altera_reset_synchronizer.v                                       ;
+; Tutorial3/soc_system/synthesis/submodules/altera_wrap_burst_converter.sv                                    ;
+; Tutorial3/soc_system/synthesis/submodules/hps.pre.xml                                                       ;
+; Tutorial3/soc_system/synthesis/submodules/hps_AC_ROM.hex                                                    ;
+; Tutorial3/soc_system/synthesis/submodules/hps_inst_ROM.hex                                                  ;
+; Tutorial3/soc_system/synthesis/submodules/hps_sdram.v                                                       ;
+; Tutorial3/soc_system/synthesis/submodules/hps_sdram_p0.ppf                                                  ;
+; Tutorial3/soc_system/synthesis/submodules/hps_sdram_p0.sdc                                                  ;
+; Tutorial3/soc_system/synthesis/submodules/hps_sdram_p0.sv                                                   ;
+; Tutorial3/soc_system/synthesis/submodules/hps_sdram_p0_acv_hard_addr_cmd_pads.v                             ;
+; Tutorial3/soc_system/synthesis/submodules/hps_sdram_p0_acv_hard_io_pads.v                                   ;
+; Tutorial3/soc_system/synthesis/submodules/hps_sdram_p0_acv_hard_memphy.v                                    ;
+; Tutorial3/soc_system/synthesis/submodules/hps_sdram_p0_acv_ldc.v                                            ;
+; Tutorial3/soc_system/synthesis/submodules/hps_sdram_p0_altdqdqs.v                                           ;
+; Tutorial3/soc_system/synthesis/submodules/hps_sdram_p0_clock_pair_generator.v                               ;
+; Tutorial3/soc_system/synthesis/submodules/hps_sdram_p0_generic_ddio.v                                       ;
+; Tutorial3/soc_system/synthesis/submodules/hps_sdram_p0_iss_probe.v                                          ;
+; Tutorial3/soc_system/synthesis/submodules/hps_sdram_p0_parameters.tcl                                       ;
+; Tutorial3/soc_system/synthesis/submodules/hps_sdram_p0_phy_csr.sv                                           ;
+; Tutorial3/soc_system/synthesis/submodules/hps_sdram_p0_pin_assignments.tcl                                  ;
+; Tutorial3/soc_system/synthesis/submodules/hps_sdram_p0_pin_map.tcl                                          ;
+; Tutorial3/soc_system/synthesis/submodules/hps_sdram_p0_report_timing.tcl                                    ;
+; Tutorial3/soc_system/synthesis/submodules/hps_sdram_p0_report_timing_core.tcl                               ;
+; Tutorial3/soc_system/synthesis/submodules/hps_sdram_p0_reset.v                                              ;
+; Tutorial3/soc_system/synthesis/submodules/hps_sdram_p0_reset_sync.v                                         ;
+; Tutorial3/soc_system/synthesis/submodules/hps_sdram_p0_timing.tcl                                           ;
+; Tutorial3/soc_system/synthesis/submodules/hps_sdram_pll.sv                                                  ;
+; Tutorial3/soc_system/synthesis/submodules/sequencer/alt_types.pre.h                                         ;
+; Tutorial3/soc_system/synthesis/submodules/sequencer/emif.pre.xml                                            ;
+; Tutorial3/soc_system/synthesis/submodules/sequencer/sdram_io.pre.h                                          ;
+; Tutorial3/soc_system/synthesis/submodules/sequencer/sequencer.pre.c                                         ;
+; Tutorial3/soc_system/synthesis/submodules/sequencer/sequencer.pre.h                                         ;
+; Tutorial3/soc_system/synthesis/submodules/sequencer/sequencer_auto.pre.h                                    ;
+; Tutorial3/soc_system/synthesis/submodules/sequencer/sequencer_auto_ac_init.pre.c                            ;
+; Tutorial3/soc_system/synthesis/submodules/sequencer/sequencer_auto_inst_init.pre.c                          ;
+; Tutorial3/soc_system/synthesis/submodules/sequencer/sequencer_defines.pre.h                                 ;
+; Tutorial3/soc_system/synthesis/submodules/sequencer/system.pre.h                                            ;
+; Tutorial3/soc_system/synthesis/submodules/sequencer/tclrpt.pre.c                                            ;
+; Tutorial3/soc_system/synthesis/submodules/sequencer/tclrpt.pre.h                                            ;
+; Tutorial3/soc_system/synthesis/submodules/soc_system_hps_0.v                                                ;
+; Tutorial3/soc_system/synthesis/submodules/soc_system_hps_0_fpga_interfaces.sv                               ;
+; Tutorial3/soc_system/synthesis/submodules/soc_system_hps_0_hps_io.v                                         ;
+; Tutorial3/soc_system/synthesis/submodules/soc_system_hps_0_hps_io_border.sdc                                ;
+; Tutorial3/soc_system/synthesis/submodules/soc_system_hps_0_hps_io_border.sv                                 ;
+; Tutorial3/soc_system/synthesis/submodules/soc_system_mm_interconnect_0.v                                    ;
+; Tutorial3/soc_system/synthesis/submodules/soc_system_mm_interconnect_0_avalon_st_adapter.v                  ;
+; Tutorial3/soc_system/synthesis/submodules/soc_system_mm_interconnect_0_avalon_st_adapter_error_adapter_0.sv ;
+; Tutorial3/soc_system/synthesis/submodules/soc_system_mm_interconnect_0_cmd_demux.sv                         ;
+; Tutorial3/soc_system/synthesis/submodules/soc_system_mm_interconnect_0_cmd_mux.sv                           ;
+; Tutorial3/soc_system/synthesis/submodules/soc_system_mm_interconnect_0_router.sv                            ;
+; Tutorial3/soc_system/synthesis/submodules/soc_system_mm_interconnect_0_router_002.sv                        ;
+; Tutorial3/soc_system/synthesis/submodules/soc_system_mm_interconnect_0_rsp_demux.sv                         ;
+; Tutorial3/soc_system/synthesis/submodules/soc_system_mm_interconnect_0_rsp_mux.sv                           ;
+; Tutorial3/soc_system/synthesis/submodules/soc_system_red_leds.v                                             ;
+; Tutorial3/soc_system/synthesis/submodules/soc_system_sysid_qsys_0.v                                         ;
+; Tutorial3/tutorial3.qpf                                                                                     ;
+; Tutorial3/tutorial3.qsf                                                                                     ;
+; Tutorial3/tutorial3.vhd                                                                                     ;
+; Tutorial3/assignment_defaults.qdf                                                                           ;
++-------------------------------------------------------------------------------------------------------------+
+
+
