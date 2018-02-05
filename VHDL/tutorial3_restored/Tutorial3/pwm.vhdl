@@ -24,8 +24,11 @@
 --------------------------------------------------------------------------------
 
 --------------------------------------------------------------------------------
--- Modified By Brian Ofrim
-
+-- Modified By Brian Ofrim, Feb, 1 2018
+-- Changes: generic constants
+--          Input source changed to Avalon Slave
+--         	Added a direction output
+--          Simplified logic to just generate one pwm signal
 --------------------------------------------------------------------------------
 
 LIBRARY ieee;
